@@ -1,4 +1,4 @@
-# AI_Naive_Bayes
+# GOAL: Naive Bayes
 This project was created and programmed for one of my university projects. The project uses Python and Scikit.
 
 ### Project: Create a part of a Search Engine
